@@ -1,12 +1,9 @@
 {
   "name": "quiz-app",
-  "homepage": "https://justineenyan.github.io/GO2COD_WD_02",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
