@@ -68,7 +68,7 @@
 }
 
 
-c@media (max-width: 1024px) {
+@media (max-width: 1024px) {
     .container {
         margin-top: 100px;
         padding: 30px 40px;
